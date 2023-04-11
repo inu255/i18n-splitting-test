@@ -1,0 +1,4 @@
+{
+    "componentNumber": "Я второй компонент",
+    "welcomeMessage": "Здарова, {{name}}!"
+}
